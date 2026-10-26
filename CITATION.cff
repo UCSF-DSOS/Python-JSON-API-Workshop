@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as follows."
+authors:
+- family-names: "Boushey"
+  given-names: "Geoffrey"
+  affiliation: "UCSF Library"
+title: "Document Analysis with Python, SQL, and AI: Workshop Series"
+version: 1.0.0
+date-released: 2024-05-13
+url: "https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops"
+abstract: >-
+  This tutorial is an introduction to reading JSON data from a web based API with Python. It's aimed at programmers, data scientists, 
+  and data engineers who need to access data from RESTful web services, flat files, and other JSON based data sources.
+keywords:
+  - data-science
+  - python
+  - API 
+  - JSON
+license: MIT
