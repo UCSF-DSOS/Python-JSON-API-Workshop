@@ -34,31 +34,31 @@ Geoffrey Boushey is a computational and research data science specialist at UCSF
 
 This workshop introduces JSON and APIs through a series of Python based jupyter notebooks. Further explanatory text is available in the notebook for each section or the tutorial. 
 
-### [Dictionaries.ipynb](./Dictionaries.ipynb)
+### [Dictionaries.ipynb](https://github.com/geoffswc/Python-JSON-API-Workshop/blob/main/Dictionaries.ipynb)
 
 How to create and use a dictionary in Python.  How to nest arrays and dictionaries in a dictionary, a common pattern in a JSON response.   
 
-### [APIRequest.ipynb](./APIRequest.ipynb)
+### [APIRequest.ipynb](https://github.com/geoffswc/Python-JSON-API-Workshop/blob/main/APIRequest.ipynb)
 
 Using a spell checking web service from the National Library of Medicine, how to request data from an api endpoint.  How to include request parameters in a URL.  How to read and parse JSON reponse as a python dictionary.  
 
-### [Interactions.ipynb](./Interactions.ipynb)
+### [Interactions.ipynb](https://github.com/geoffswc/Python-JSON-API-Workshop/blob/main/Interactions.ipynb)
 
 Investigate a more elaborate JSON response by querying a National Library of Medicine api for drug interactions.
 
-### [InteractionList.ipynb](./InteractionList.ipynb)
+### [InteractionList.ipynb](https://github.com/geoffswc/Python-JSON-API-Workshop/blob/main/InteractionList.ipynb)
 
 Using the interaction api, how to parse and select data from an api.
 
-### [Recursion.ipynb](./Recursion.ipynb)
+### [Recursion.ipynb](https://github.com/geoffswc/Python-JSON-API-Workshop/blob/main/Recursion.ipynb)
 
 Since dictionaries and JSON can contain tree like structures, it can be useful to understand how to use recursion to traverse, print, and search trees. This notebook contains a basic recursion example followed by an example using recursion to print all keys in a JSON document.  
 
-### [SimpleService.py](./SimpleService.py)
+### [SimpleService.py](https://github.com/geoffswc/Python-JSON-API-Workshop/blob/main/SimpleService.py)
 
 Use the bottle module to create a simple web sevice that returns JSON.  Read and parse your web service.
 
-### [InteractionService.py](./InteractionService.py)
+### [InteractionService.py](https://github.com/geoffswc/Python-JSON-API-Workshop/blob/main/InteractionService.py)
 
 Build on the simple service to provide a new api endpoint that provides a summary of drug interaction data from the NLM interactions api.  
 
