@@ -1,5 +1,7 @@
 baseurl: "/Python-JSON-API-Workshop"
 
+repository: UCSF-DSOS/Python-JSON-API-Workshop
+
 # Use the minimal theme layout (which doesn't wrap the title in a link)
 theme: jekyll-theme-minimal
 
