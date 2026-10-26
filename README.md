@@ -1,10 +1,10 @@
 ### Description
 
-This tutorial provides an introduction to reading JSON data from a web based API with Python. It's aimed at programmers, data scientists, and data engineers who need to access data from RESTful web services, flat files, and other JSON based data sources. 
+This workshop provides an introduction to reading JSON data from a web based API with Python. It's aimed at programmers, data scientists, and data engineers who need to access data from RESTful web services, flat files, and other JSON based data sources. 
 
 JSON is a commonly used data format, consisting of key-value pairs stored in a nested tree structure. Because many web services return data in JSON format, data scientists and engineers frequently need to read, process, and parse JSON data using Python.
 
-This tutorial will consist of a series of notebooks and tutorial exercises. Rather than discussing the JSON format in the abstract, participants will learn the structure of JSON documents by working directly with web APIs with Python. 
+This workshop will consist of a series of notebooks and tutorial exercises. Rather than discussing the JSON format in the abstract, participants will learn the structure of JSON documents by working directly with web APIs with Python. 
 
 ### Objectives
 
@@ -24,7 +24,7 @@ Through a series of participants will learn to the Python and the JSON based API
 
 ### Prerequisites
 
-This tutorial is intended for participants who have basic programming experience with Python, including loops, conditionals, and lists. No previous experience with JSON is expected. Some familiarity with tree structures and recursion will help, but we will cover these concepts in the context of parsing JSON documents.  
+This workshop is intended for participants who have basic programming experience with Python, including loops, conditionals, and lists. No previous experience with JSON is expected. Some familiarity with tree structures and recursion will help, but we will cover these concepts in the context of parsing JSON documents.  
 
 ### Instructor
 
@@ -32,7 +32,7 @@ Geoffrey Boushey is a computational and research data science specialist at UCSF
 
 ## Workbooks
 
-This tutorial consists of a series of jupyter notebooks. Further explanatory text is available in the notebook for each section or the tutorial. 
+This workshop introduces JSON and APIs through a series of Python based jupyter notebooks. Further explanatory text is available in the notebook for each section or the tutorial. 
 
 ### [Dictionaries.ipynb](./Dictionaries.ipynb)
 
