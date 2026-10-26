@@ -7,7 +7,7 @@ authors:
 title: "Python and Web APIs: Working with Dictionaries and JSON"
 version: 1.0.0
 date-released: 2024-05-13
-url: "https://github.com/geoffswc/Python-JSON-API-Workshop
+url: "https://github.com/UCSF-DSOS/Python-JSON-API-Workshop
 abstract: >-
   This workshop provides an introduction to reading JSON data from a web based API with Python. It's aimed at programmers, data scientists, 
   and data engineers who need to access data from RESTful web services, flat files, and other JSON based data sources.
