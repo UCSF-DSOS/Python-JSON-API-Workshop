@@ -8,7 +8,7 @@ This workshop will consist of a series of notebooks and tutorial exercises. Rath
 
 ### Objectives
 
-Through a series of participants will learn to the Python and the JSON based API from the National Library of Medicine and the UCSF Industry Documents Library to:
+Through a series of exercises, participants will learn to the Python and the JSON based API from the National Library of Medicine and the UCSF Industry Documents Library to:
 
 1. Retrieve and view a JSON document from an API through a browser, using the service endpoint URL.
 
